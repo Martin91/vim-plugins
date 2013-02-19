@@ -10,3 +10,6 @@
 [submodule "bundle/ScrollColors"]
 	path = bundle/ScrollColors
 	url = git://github.com/vim-scripts/ScrollColors.git
+[submodule "bundle/AutoClose"]
+	path = bundle/AutoClose
+	url = git://github.com/vim-scripts/AutoClose.git
