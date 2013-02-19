@@ -1,0 +1,15 @@
+[submodule "bundle/vim-rails"]
+	path = bundle/vim-rails
+	url = git://github.com/tpope/vim-rails.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = git://github.com/azhao1981/snipmate.vim.git
+[submodule "bundle/ScrollColors"]
+	path = bundle/ScrollColors
+	url = git://github.com/vim-scripts/ScrollColors.git
+[submodule "bundle/AutoClose"]
+	path = bundle/AutoClose
+	url = git://github.com/vim-scripts/AutoClose.git
